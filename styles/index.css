@@ -1,8 +1,5 @@
 @import url(global.css);
-
-#page{
-  margin: 32px
-}
+@import url(nav.css);
 
 #heading {
   font-size: 32px;
